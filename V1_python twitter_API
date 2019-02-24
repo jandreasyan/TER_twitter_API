@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sunday Feb 24 17:50 2019
+
+@author: Madmax21x 
+
+        Projet de TER : API twitter 
+        
+"""
+
 import tweepy
 
 consumer_key = ''
